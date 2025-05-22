@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url('/Desafio-7--Refeito/assets/img/bg-intro-desktop.png');
+    background-image: url('/Desafio-7--Refeito/assets/img/bg-intro-desktop.png') !important;
     background-size: cover;
     background-position: center;
     background-color: #0c0c0c !important;
